@@ -15,7 +15,9 @@
 **微信二维码在线使用:**
 
 <img src="https://caisisi123.github.io/daily_project/mypage.png" alt="微信二维码" width="20%">
-## 页面及功能展示
+
+#### 页面展示:
+
 <div display="flex">
 <img src="https://caisisi123.github.io/daily_project/index.png" alt="首页" width="20%">
  <img src="https://caisisi123.github.io/daily_project/input.png" alt="输入" width="20%">
