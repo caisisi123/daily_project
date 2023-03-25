@@ -1,0 +1,10 @@
+/* color palette from <https://github.com/vuejs/theme> */
+.my_title{
+  font-size: 2rem;
+}
+#start>p{
+  font-size: 1.5rem;
+}
+div{
+  font-size: 3rem;
+}
