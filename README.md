@@ -14,5 +14,15 @@
 
 **微信二维码在线使用:**
 
-<img src="https://caisisi123.github.io/daily_project/mypage.png" alt="图片描述" width="20%">
-
+<img src="https://caisisi123.github.io/daily_project/mypage.png" alt="微信二维码" width="20%">
+**页面及功能展示**
+<div display="flex">
+<img src="https://caisisi123.github.io/daily_project/index.png" alt="首页" width="20%">
+ <img src="https://caisisi123.github.io/daily_project/input.png" alt="输入" width="20%">
+<img src="https://caisisi123.github.io/daily_project/calendar.png" alt="按日历浏览计划" width="20%">
+ </div>
+ <div display="flex" justify-content="center">
+<img src="https://caisisi123.github.io/daily_project/list.png" alt="清单" width="20%">
+<img src="https://caisisi123.github.io/daily_project/focus.png" alt="专注" width="20%">
+<img src="https://caisisi123.github.io/daily_project/statistic.png" alt="统计" width="20%">
+</div>
