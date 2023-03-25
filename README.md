@@ -1,8 +1,8 @@
-# daily_project
- 这是一个SPA项目，主要使用了Vue3框架、Element Plus UI和Echarts。该项目的功能是记录每天的工作计划和完成情况，并能够汇总查看过去的计划情况。此外，它还提供了番茄钟和正计时的时间记录功能，并提供了记录和专注统计表的功能。欢迎使用！
+# 简介
+ 这是一个SPA项目，主要使用了Vue3框架、Element Plus UI和Echarts。该项目的功能是记录每天的工作计划和完成情况，并能够汇总查看过去的计划情况。此外，它还提供了番茄钟和正计时的时间记录功能，并提供了记录和专注统计表的功能。
 
 
-**特征:**
+## 功能:
 
 * 记录每日计划和标记是否完成
 
@@ -15,7 +15,7 @@
 **微信二维码在线使用:**
 
 <img src="https://caisisi123.github.io/daily_project/mypage.png" alt="微信二维码" width="20%">
-**页面及功能展示**
+## 页面及功能展示
 <div display="flex">
 <img src="https://caisisi123.github.io/daily_project/index.png" alt="首页" width="20%">
  <img src="https://caisisi123.github.io/daily_project/input.png" alt="输入" width="20%">
