@@ -1,0 +1,150 @@
+{
+  "_elementPlus-7bd05a90.js": {
+    "css": [
+      "assets/elementPlus-6465786a.css"
+    ],
+    "file": "assets/elementPlus-7bd05a90.js",
+    "imports": [
+      "_vendor-d4830297.js"
+    ]
+  },
+  "_vendor-d4830297.js": {
+    "file": "assets/vendor-d4830297.js"
+  },
+  "elementPlus.css": {
+    "file": "assets/elementPlus-6465786a.css",
+    "src": "elementPlus.css"
+  },
+  "favicon.ico": {
+    "file": "assets/favicon-5985d9c9.ico",
+    "src": "favicon.ico"
+  },
+  "index.css": {
+    "file": "assets/index-dd1323b6.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/bg-c00f4bc9.webp"
+    ],
+    "css": [
+      "assets/index-dd1323b6.css"
+    ],
+    "dynamicImports": [
+      "src/page1/assets/avar.webp",
+      "src/page1/assets/message.webp",
+      "src/page2/View2.vue",
+      "src/page3/view3.vue",
+      "src/page4/fourthView.vue",
+      "src/stores/echarts.min.js?url"
+    ],
+    "file": "assets/index-91d4b854.js",
+    "imports": [
+      "_vendor-d4830297.js",
+      "_elementPlus-7bd05a90.js"
+    ],
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "src/assets/bg.webp": {
+    "file": "assets/bg-c00f4bc9.webp",
+    "src": "src/assets/bg.webp"
+  },
+  "src/page1/assets/avar.webp": {
+    "assets": [
+      "assets/avar-e18a7236.webp"
+    ],
+    "file": "assets/avar-135badee.js",
+    "isDynamicEntry": true,
+    "src": "src/page1/assets/avar.webp"
+  },
+  "src/page1/assets/message.webp": {
+    "assets": [
+      "assets/message-b41dae3d.webp"
+    ],
+    "file": "assets/message-39ddcc3f.js",
+    "isDynamicEntry": true,
+    "src": "src/page1/assets/message.webp"
+  },
+  "src/page2/View2.css": {
+    "file": "assets/View2-557ab370.css",
+    "src": "src/page2/View2.css"
+  },
+  "src/page2/View2.vue": {
+    "css": [
+      "assets/View2-557ab370.css"
+    ],
+    "file": "assets/View2-b948f64a.js",
+    "imports": [
+      "_elementPlus-7bd05a90.js",
+      "index.html",
+      "_vendor-d4830297.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/page2/View2.vue"
+  },
+  "src/page3/assets/bg.gif": {
+    "assets": [
+      "assets/bg-27f71daf.gif"
+    ],
+    "file": "assets/bg-90d8f455.js",
+    "isDynamicEntry": true,
+    "src": "src/page3/assets/bg.gif"
+  },
+  "src/page3/view3.css": {
+    "file": "assets/view3-e0b61ebb.css",
+    "src": "src/page3/view3.css"
+  },
+  "src/page3/view3.vue": {
+    "css": [
+      "assets/view3-e0b61ebb.css"
+    ],
+    "dynamicImports": [
+      "src/page3/assets/bg.gif"
+    ],
+    "file": "assets/view3-c9677eb0.js",
+    "imports": [
+      "_elementPlus-7bd05a90.js",
+      "index.html",
+      "_vendor-d4830297.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/page3/view3.vue"
+  },
+  "src/page4/assets/img_6.webp": {
+    "file": "assets/img_6-f73fbd91.webp",
+    "src": "src/page4/assets/img_6.webp"
+  },
+  "src/page4/fourthView.css": {
+    "file": "assets/fourthView-157b5ff7.css",
+    "src": "src/page4/fourthView.css"
+  },
+  "src/page4/fourthView.vue": {
+    "assets": [
+      "assets/img_6-f73fbd91.webp"
+    ],
+    "css": [
+      "assets/fourthView-157b5ff7.css"
+    ],
+    "file": "assets/fourthView-8b3058b0.js",
+    "imports": [
+      "_elementPlus-7bd05a90.js",
+      "index.html",
+      "_vendor-d4830297.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/page4/fourthView.vue"
+  },
+  "src/stores/echarts.min.js": {
+    "file": "assets/echarts.min-ac263274.js",
+    "src": "src/stores/echarts.min.js"
+  },
+  "src/stores/echarts.min.js?url": {
+    "assets": [
+      "assets/echarts.min-ac263274.js"
+    ],
+    "file": "assets/echarts.min-a4c6cdbc.js",
+    "isDynamicEntry": true,
+    "src": "src/stores/echarts.min.js?url"
+  }
+}
