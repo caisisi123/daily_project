@@ -19,7 +19,8 @@
 <div display="flex">
 <img src="https://caisisi123.github.io/daily_project/index.png" alt="首页" width="20%">
  <img src="https://caisisi123.github.io/daily_project/input.png" alt="输入" width="20%">
-<img src="https://caisisi123.github.io/daily_project/calendar.png" alt="按日历浏览计划" width="20%">
+<img src="https://caisisi123.github.io/daily_project/cal.png" alt="按日历浏览计划" width="20%">
+
  </div>
  <div display="flex" justify-content="center">
 <img src="https://caisisi123.github.io/daily_project/list.png" alt="清单" width="20%">
