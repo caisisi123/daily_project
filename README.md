@@ -27,7 +27,7 @@
 <img src="https://caisisi123.github.io/daily_project/show/index.png" alt="首页" width="20%">
  <img src="https://caisisi123.github.io/daily_project/show/input.png" alt="输入" width="20%">
 <img src="https://caisisi123.github.io/daily_project/show/cal.jpg" alt="按日历浏览计划" width="20%">
-
+21
  </div>
  <div display="flex" justify-content="center">
 <img src="https://caisisi123.github.io/daily_project/show/list.png" alt="清单" width="20%">
