@@ -19,6 +19,8 @@
 
 **微信二维码在线使用:**
 
+由于本身不是微信小程序，因为微信内置浏览器限制，点击功能可能有问题，建议浏览器使用，等我调试好小程序上线后再扫描吧~
+
 <img src="https://caisisi123.github.io/daily_project/show/mypage.jpg" alt="微信二维码" width="20%">
 
 #### 页面展示:
